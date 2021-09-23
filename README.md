@@ -1,1 +1,3 @@
-# Maqam - Compiling all Islamic texts to be readily avaliable to everyone
+# Maqam 
+---
+## *Compiling all Islamic texts to be readily avaliable to everyone*
